@@ -27,7 +27,7 @@ Currently focused on:
 - **Email**: lorahnjuguna@gmail.com
 - **Location**: Nairobi, Kenya
 - ### 📊 Tableau Dashboards  
-Check out all my visualizations here: [My Tableau Public Profile](https://public.tableau.com/app/profile/lorahnjuguna)
+Check out all my visualizations here: [My Tableau Public Profile](https://public.tableau.com/app/profile/lorah.njuguna/vizzes)
 
 Thanks for stopping by!
 
